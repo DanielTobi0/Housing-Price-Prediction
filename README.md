@@ -1,6 +1,6 @@
 # Housing Price Prediction
 
-## In this project I built a regressor model, capable of predicting house prices, using LightGBM machine learning model, based on the features of the house.
+### In this project I built a regressor model, capable of predicting house prices, using LightGBM machine learning model, based on the features of the house.
 
 King County is located in the U.S. state of Washington. The population was 2,252,782 in the 2019 census estimate, making it the most populous county in Washington, and the 12th-most populous in the United States. The county seat is Seattle, also the state's most populous city.
 
