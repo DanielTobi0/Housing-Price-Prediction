@@ -6,6 +6,8 @@ King County is located in the U.S. state of Washington. The population was 2,252
 
 Real estate plays an integral role in the U.S. economy. Purchasing and selling a house is among the biggest commitments and a great source of income for most people. Therefore, accurate prediction of prices based on other sale data can be a critical tool to assist the buyer/seller in making an informed decision.
 
+Prototyping is done in the **price_prediction.ipynb** notebook file complete with a step-by-step walk through of model building logic, visualisations and model explainability. Deployment is done via the python script **prediction_app.py** culminating in a live [web application](https://danieltobi0-housing-price-prediction-prediction-app-micgmp.streamlitapp.com/).
+
 # Defination of Attributes
 1. id - Unique identified for a house
 2. date - Date house was sold
