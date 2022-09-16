@@ -13,7 +13,7 @@ import math
 
 
 # loading the saved model
-loaded_model = pickle.load(open('/prediction_model.sav','rb'))
+loaded_model = pickle.load(open('prediction_model.sav','rb'))
 
 st.info(
         f""" 
